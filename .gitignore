@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WinformApplication/UpdateForm/bin/Debug/net6.0-windows
+/WinformApplication/UpdateForm/obj
+/WinformApplication/WinformApplication/.vs
+/WinformApplication/WinformApplication/bin/Debug/net6.0-windows
+/WinformApplication/WinformApplication/obj
+/WinformApplication/WinformApplication.BL/obj
+/WinformApplication/WinformApplication.DAL/bin/Debug/net6.0
+/WinformApplication/WinformApplication.DAL/obj
+/WinformApplication/WinformApplication.BL/bin/Debug/net6.0
+/WinformApplication/WinformApplication.Entity/bin/Debug/net6.0
+/WinformApplication/WinformApplication.Entity/obj
